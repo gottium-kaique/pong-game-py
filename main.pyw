@@ -1,6 +1,7 @@
 import pygame
 from pygame.locals import *
 
+
 width, height = 750, 500
 window = pygame.display.set_mode([width, height])
 pygame.display.set_caption('Pong Game')
